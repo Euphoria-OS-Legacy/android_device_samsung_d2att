@@ -1,2 +1,3 @@
+add_lunch_combo eos_d2att-user
 add_lunch_combo eos_d2att-eng
 add_lunch_combo eos_d2att-userdebug
